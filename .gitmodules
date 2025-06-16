@@ -1,0 +1,9 @@
+[submodule "chatterbox"]
+	path = chatterbox
+	url = https://github.com/resemble-ai/chatterbox.git
+[submodule "Gen-L-Video"]
+	path = Gen-L-Video
+	url = https://github.com/G-U-N/Gen-L-Video.git
+[submodule "Wav2Lip"]
+	path = Wav2Lip
+	url = https://github.com/Rudrabha/Wav2Lip.git
